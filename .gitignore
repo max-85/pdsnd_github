@@ -1,1 +1,5 @@
 .github/**
+
+# Editors
+.vscode/
+.idea/
