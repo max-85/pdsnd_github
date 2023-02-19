@@ -14,4 +14,3 @@ bikeshare.py
 
 ### Credits
 Udacity course Programming with Python for Data Science
-Next level!
