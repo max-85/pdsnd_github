@@ -4,6 +4,7 @@
 2023-02-19
 
 ### Project Title
+<<<<<<< HEAD
 Bikeshare git repo
 
 ### Description
@@ -14,3 +15,14 @@ bikeshare.py
 
 ### Credits
 Udacity course Programming with Python for Data Science
+=======
+Refactoring bikeshare
+
+### Description
+refactoring bikeshare.py
+
+### Files used
+bikeshare.py
+### Credits
+Refactoring
+>>>>>>> refactoring
